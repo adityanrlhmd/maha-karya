@@ -338,7 +338,7 @@ a {
   box-shadow: 1px 1px 40px 0 rgba(223, 225, 229, 0.57);
 }
 
-.nav {
+/* .nav {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -358,7 +358,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-}
+} */
 
 .dropdown-menu1 {
   position: absolute;
@@ -6263,9 +6263,9 @@ a {
     color: #fff;
   }
 
-  .nav {
+  /* .nav {
     height: 100vh;
-  }
+  } */
 
   .nav-link {
     font-family: 'Varela Round', sans-serif;
